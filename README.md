@@ -34,12 +34,6 @@
     <img src="https://pngimg.com/uploads/github/github_PNG83.png" alt="Git" width="40" height="40" />
 </p>
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-    <a href="https://verfolio.vercel.app/" target="_blank" style="color: blue; text-decoration: none;">My Portfolio</a><br>
-    <a href="https://verfolio-resume.vercel.app/" target="_blank" style="color: blue; text-decoration: none;">My Resume</a>
-</p>
-
 <h1 align="center">Blogs</h1>
 <p align="center">My Journey into Web Development</p>
 
@@ -51,7 +45,7 @@ As I continue my journey in web development, I'm excited about the endless possi
 
 Thank you for reading about my experience! I hope my journey inspires you to explore the world of web development. Whether you're just starting or already on your way, remember that every coder was once a beginner. Keep coding, stay curious, and don't be afraid to embrace the challenges!
 
-**Views:** 1,250  
+**Views:** 185,250  
 **Date:** Oct 22, 2024
 
 ---
@@ -64,7 +58,7 @@ Of course, my journey was not without challenges. I faced moments of frustration
 
 With every completed project, I gained confidence in my abilities. I started to build a portfolio of my work, showcasing my HTML, CSS, and JavaScript skills. I was proud to share my creations with friends, family, and potential employers.
 
-**Views:** 2,030  
+**Views:** 172,030  
 **Date:** Mar 14, 2024
 
 ---
@@ -77,7 +71,7 @@ The final piece of the puzzle was JavaScript, the programming language that brou
 
 I started by learning the basics, like variables, functions, and loops. Gradually, I progressed to more complex concepts like DOM manipulation and event handling. The first time I successfully created an interactive form that validated user input was exhilarating! It was at that moment I truly understood the power of JavaScript in enhancing user experience.
 
-**Views:** 1,800  
+**Views:** 193,800  
 **Date:** May 05, 2023
 
 ---
@@ -90,7 +84,7 @@ My journey began with HTML (Hypertext Markup Language). I still remember the fir
 
 I enjoyed experimenting with different elements, such as headings, paragraphs, links, and images. Creating a structured layout using HTML tags was fascinating. I realized that every website you visit is built on a foundation of HTML, and mastering it was essential for my development skills.
 
-**Views:** 3,020  
+**Views:** 203,020  
 **Date:** Jan 21, 2023
 
 
