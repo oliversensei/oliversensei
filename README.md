@@ -89,4 +89,4 @@ I enjoyed experimenting with different elements, such as headings, paragraphs, l
 
 
 <!-- Footer -->
-<p align="center">Copyright © 2024 Developed by John Oliver | All Rights Reserved.</p>
+<p align="center">Copyright © 2025 Developed by John Oliver | All Rights Reserved.</p>
